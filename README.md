@@ -1,0 +1,2 @@
+This is the PHP script useful to perform manual failover of 2 or more physical/virtual server on another stand-alone server. 
+Please note that only 1 server will be moved over to the sand-alone server on first come first serve bases
